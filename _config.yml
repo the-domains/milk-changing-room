@@ -1,0 +1,28 @@
+name: 'Milk changing room '
+favicon: null
+layout_spectrum: 0.3634924655780196
+typography_spectrum: 0.04674617410637438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13880997546948493
+  lightness: 0.47362037445418537
+  saturation: 0.45225717686116695
+  rhythmicContrast: 0.19222824508324265
+purpose: []
