@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Milk changing room ]]></title>
         <description><![CDATA[Milk changing room ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/milk-changing-room/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 10:09:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 10:10:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/milk-changing-room/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/554af4ee-b9db-4892-80d6-ea9750cbad15.jpg">]]></description>
+            <link>https://thegrid.ai/milk-changing-room/1a762f38-b304-422f-b7ad-d6f073b18e1a/index.html</link>
+            <guid isPermaLink="false">1a762f38-b304-422f-b7ad-d6f073b18e1a</guid>
+            <pubDate>Tue, 08 Mar 2016 10:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to the new milk* site!</p>]]></description>
-            <link>undefined2ff4af74-5a7a-4d5d-8695-932ace3eb859/index.html</link>
+            <link>https://thegrid.ai/milk-changing-room/2ff4af74-5a7a-4d5d-8695-932ace3eb859/index.html</link>
             <guid isPermaLink="false">2ff4af74-5a7a-4d5d-8695-932ace3eb859</guid>
             <pubDate>Tue, 08 Mar 2016 10:06:29 GMT</pubDate>
         </item>
