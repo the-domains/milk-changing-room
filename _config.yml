@@ -1,7 +1,7 @@
 name: 'Milk changing room '
 favicon: null
-layout_spectrum: 0.72302
-typography_spectrum: 0.04674617410637438
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'Milk changing room '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1875
-  lightness: 0.47362037445418537
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
